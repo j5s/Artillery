@@ -1,6 +1,6 @@
 # Artillery 插件化JAVA中间件漏洞扫描器（Weblogic、Tomcat、Spring...）
 
-插件化漏洞扫描器，Gui基于javafx，插件化主要是通过java的反射调用实现。POC 目前集成 Weblogic、Tomcat、Shiro、Spring等。
+JAVA 插件化漏洞扫描器，Gui基于javafx，插件化主要是通过java的反射调用实现。POC 目前集成 Weblogic、Tomcat、Shiro、Spring等。
 
 - 插件化
 - 批量扫描
